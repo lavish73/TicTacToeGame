@@ -1,4 +1,4 @@
-# TicTacToeGame
+# Tic Tac Toe Game
 <p>This Python script is a GUI-based implementation of the classic Tic-Tac-Toe game using the tkinter library. The game supports two players who alternate turns, with a simple interface to make moves and reset the game.</p>
 
 <h2>Features</h2>
