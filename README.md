@@ -16,3 +16,5 @@ Displays a message when a player wins and disables further moves.</p>
 <b>User-Friendly UI:</b>
 <p>- Visual grid and markers (X in blue and O in red).
 Instructions and real-time player turn display.</p>
+
+![TicTacToeGame](game.png)
